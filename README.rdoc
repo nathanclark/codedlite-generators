@@ -1,5 +1,17 @@
 = codedlite-generators
 * This is a a collection of utilities that setup basic things for new apps.
+== Setup
+
+=== Rails 3
+
+Add the gem to your Gemfile.
+
+  gem "codedlite-generators", :group => :development
+
+Then you can run any of the included generators.
+
+  rails g codedlite:config
+
 == Planned Generators
 
 * codedlite:layout: generates generic layout, stylesheet, and helper files.

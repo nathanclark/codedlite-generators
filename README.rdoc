@@ -1,5 +1,5 @@
 = codedlite-generators
-
+* This is a a collection of utilities that setup basic things for new apps.
 == Planned Generators
 
 * codedlite:layout: generates generic layout, stylesheet, and helper files.

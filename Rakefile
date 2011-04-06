@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "codedlite-generators"
   gem.homepage = "http://github.com/nathanclark/codedlite-generators"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A collection of utility generators}
+  gem.description = %Q{A2 collection of utility generators}
   gem.email = "nathanclark80@gmail.com"
   gem.authors = ["Nathan Clark"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,

@@ -1,6 +1,11 @@
 = codedlite-generators
 
-Description goes here.
+== Planned Generators
+
+* codedlite:layout: generates generic layout, stylesheet, and helper files.
+* codedlite:scaffold: generates a controller and optional model/migration.
+* codedlite:config: generates a config YAML file and loader.
+* codedlite:authentication: generates user model with sign up and log in.
 
 == Contributing to codedlite-generators
  
